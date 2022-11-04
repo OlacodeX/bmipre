@@ -1,5 +1,5 @@
 Flask
-sklearn
+#sklearn
 pandas
 numpy
 matplotlib
@@ -11,6 +11,6 @@ mtcnn
 Pillow
 keras_vggface
 keras
-Click
+#Click
 tqdm
 keras_applications
