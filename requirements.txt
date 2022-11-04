@@ -1,0 +1,16 @@
+Flask
+sklearn
+pandas
+numpy
+matplotlib
+seaborn
+gunicorn
+tensorflow
+opencv-python
+mtcnn
+Pillow
+keras_vggface
+keras
+Click
+tqdm
+keras_applications
